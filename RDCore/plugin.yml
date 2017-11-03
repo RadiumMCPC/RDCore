@@ -1,0 +1,19 @@
+name: RDCore
+version: 0.0.1
+author: radiumTeam
+main: org.rd1.rdcore.Main
+commands:
+  gmc:
+   description: Sets your Gamemode to Creative!
+   
+  gms:
+   description: Sets your Gamemode to Survival!
+   
+  heal:
+   description: Heals you!
+   
+  fly:
+   description: Allows you to fly in any Gamemode!
+   
+  feed:
+   description: Feeds you!
